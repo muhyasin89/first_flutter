@@ -48,7 +48,7 @@ class _ProductManagerState extends State<ProductManager> {
           child: Text('Add Product'),
           ),
         ),
-        Product(_products) //it can be empty 
+        Product(_products) //it can be empty
     ],
     );
   }
